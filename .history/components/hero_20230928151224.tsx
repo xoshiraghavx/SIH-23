@@ -11,7 +11,8 @@ export default function Hero() {
           <svg className="max-w-full" width="564" height="552" viewBox="0 0 564 552" fill="none" xmlns="http://www.w3.org/2000/svg">
             <defs>
               <linearGradient id="illustration-02" x1="-3.766" y1="300.204" x2="284.352" y2="577.921" gradientUnits="userSpaceOnUse">
-                <stop stopColor="green" stopOpacity=".51" />
+                <stop stopColor="green" stopOpacity=".01" />
+                <stop offset="1" stopColor="blue" stopOpacity=".50" />
                 <stop offset="1" stopColor="orange" stopOpacity=".52" />
               </linearGradient>
             </defs>
@@ -45,7 +46,7 @@ export default function Hero() {
             videoWidth={1920}
             videoHeight={1080} />
             <div>
-              <p className='text-center'>The end of the law is not to abolish or restrain, but to preserve and enlarge freedom.</p>
+              <p className=''>The end of the law is not to abolish or restrain, but to preserve and enlarge freedom.</p>
             </div>
 
         </div>

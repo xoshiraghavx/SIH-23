@@ -86,7 +86,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Legal Assistance</h4>
-              <p className="text-lg text-gray-400 text-center">The system provides legal aid and awareness to the involved parties, informing them about their rights and the legal process, and assisting them in document drafting and review.</p>
+              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
             </div>
 
           </div>

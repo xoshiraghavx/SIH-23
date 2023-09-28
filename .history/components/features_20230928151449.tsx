@@ -21,7 +21,8 @@ export default function Features() {
                 <path className="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
               <h4 className="h4 mb-2">Case Registration</h4>
-              <p className="text-lg text-gray-400 text-center">Upon the registration of a case, the DCFM system categorises it based on its type, complexity, and other relevant factors.</p>
+              <p className="text-lg text-gray-400 text-center">Upon the registration of a case, the DCFM system categorises it based on its type, complexity, and other relevant factors.
+</p>
             </div>
 
             {/* 2nd item */}
@@ -31,8 +32,8 @@ export default function Features() {
                 <path className="stroke-current text-purple-100" strokeWidth="2" strokeLinecap="square" d="M21 23h22v18H21z" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
-              <h4 className="h4 mb-2">Assessment and Prioritization</h4>
-              <p className="text-lg text-gray-400 text-center">The system assesses the case's urgency, available evidence, and legal provisions to assign a priority level, ensuring that critical cases are addressed promptly.</p>
+              <h4 className="h4 mb-2">Instant Features</h4>
+              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
             </div>
 
             {/* 3rd item */}
@@ -45,8 +46,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-100" cx="11" cy="11" r="11" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Scheduling and Allocation</h4>
-              <p className="text-lg text-gray-400 text-center">Based on the priority and the availability of judicial resources, the DCFM system allocates time slots and resources, optimising the court's schedule and preventing resource conflicts.</p>
+              <h4 className="h4 mb-2">Instant Features</h4>
+              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
             </div>
 
             {/* 4th item */}
@@ -58,8 +59,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-300" cx="13" cy="9" r="3" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Progress Monitoring</h4>
-              <p className="text-lg text-gray-400 text-center">The DCFM system continuously monitors the progress of each case, updating the schedule and priority as needed, and ensuring timely resolution of cases.</p>
+              <h4 className="h4 mb-2">Instant Features</h4>
+              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
             </div>
 
             {/* 5th item */}
@@ -71,8 +72,8 @@ export default function Features() {
                   <path className="stroke-current text-purple-300" d="M22 30h4v12h-4z" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Feedback and Optimization</h4>
-              <p className="text-lg text-gray-400 text-center">The system gathers feedback from various stakeholders and uses it to optimise its algorithms and processes, improving its efficiency and effectiveness over time.</p>
+              <h4 className="h4 mb-2">Instant Features</h4>
+              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
             </div>
 
             {/* 6th item */}
@@ -85,8 +86,8 @@ export default function Features() {
                   <path className="stroke-current text-purple-100" d="M8.86 1.18C3.8 1.988 0 5.6 0 10c0 5 4.9 9 11 9a10.55 10.55 0 003.1-.4L20 21l-.6-5.2a9.125 9.125 0 001.991-2.948" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Legal Assistance</h4>
-              <p className="text-lg text-gray-400 text-center">The system provides legal aid and awareness to the involved parties, informing them about their rights and the legal process, and assisting them in document drafting and review.</p>
+              <h4 className="h4 mb-2">Instant Features</h4>
+              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
             </div>
 
           </div>
