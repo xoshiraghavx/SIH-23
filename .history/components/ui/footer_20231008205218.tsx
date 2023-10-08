@@ -1,7 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
-import Logo from '@/public/images/laws.svg'
 
 import TestimonialImage03 from '@/public/images/testimonial-01.jpg'
 
@@ -18,7 +17,7 @@ export default function Footer() {
             <div className="md:col-span-4 lg:col-span-5">
               <div className="mb-2">
                 {/* Logo */}
-                <Image className="rounded-full" src={Logo} width={70} height={70} alt="logo" />
+                <Image className="rounded-full" src={Logo} width={80} height={80} alt="Testimonial 01" />
               </div>
               <div className="text-gray-600">Unlock the future of legal simplicity with L.A.W.S. Our cutting-edge Legal Automation Workplace System revolutionizes legal processes, making them accessible and hassle-free for everyone. Say goodbye to complexity and hello to ease.</div>
             </div>

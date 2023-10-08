@@ -101,7 +101,7 @@ export default function Zigzag() {
               {/* Content */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-right">
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                  <div className="font-architects-daughter text-xl text-purple-600 mb-2">Navigate Legal Waters Easily.</div>
+                  <div className="font-architects-daughter text-xl text-purple-600 mb-2">"Navigate Legal Waters Easily."</div>
                   <h3 className="h3 mb-3">Resource Oasis Feature</h3>
                   <p className="text-xl text-gray-400 mb-4">Be the go-to platform for essential legal resources, providing a well-curated and constantly updated repository of legal information and tools.</p>
                   <ul className="text-lg text-gray-400 -mb-2">
