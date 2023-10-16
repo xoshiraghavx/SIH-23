@@ -33,32 +33,32 @@ export default function Footer() {
 
               {/* 2nd block */}
               <div className="text-sm">
-                <h6 className="text-gray-500 text-xl mb-1 text-center mt-10 lg:mt-0">Meet The Team</h6>
-                <ul className='grid grid-cols-2 lg:grid-cols-6 mt-10 gap-4'>
+                <h6 className="text-gray-500 text-xl mb-1 text-center">Meet The Team</h6>
+                <ul className='grid grid-cols-6 mt-10 gap-4'>
                   <li className="mb-1">
                   <Image className="rounded-full grayscale hover:grayscale-0" src={Harsh} alt="Testimonial 03"  />
-                    <Link href="http://www.harsh.ai.in" className="text-gray-600 transition duration-150 ease-in-out flex justify-center ">Harsh Vashisht</Link>
+                    <Link href="http://www.harsh.ai.in" className="text-gray-600 transition duration-150 ease-in-out ">Harsh Vashisht</Link>
                   </li>
                   <li className="mb-1">
                   <Image className="rounded-full grayscale hover:grayscale-0" src={Ujwal} alt="Testimonial 03"  />
-                    <Link href="https://www.linkedin.com/in/ujjawal-kumar-8a5bb4206" className=" text-center text-gray-600 transition duration-150 ease-in-out flex justify-center">Ujjawal Kumar</Link>
+                    <Link href="https://www.linkedin.com/in/ujjawal-kumar-8a5bb4206" className=" text-center text-gray-600 transition duration-150 ease-in-out">Ujjawal Kumar</Link>
                   </li>
                   <li className="mb-1">
-                  <Image className="rounded-full grayscale hover:grayscale-0" src={Ayush} alt="Testimonial 03" />
-                    <Link href="https://www.linkedin.com/in/spratap0309" className="text-center text-gray-600 transition duration-150 ease-in-out flex justify-center">Aayush Bhadoria</Link>
+                  <Image className="rounded-full" src={Ayush} alt="Testimonial 03" />
+                    <Link href="https://www.linkedin.com/in/spratap0309" className="text-center text-gray-600 transition duration-150 ease-in-out">Aayush Pratap Singh Bhadoria</Link>
                   </li>
                   
                   <li className="mb-1">
-                  <Image className="rounded-full grayscale hover:grayscale-0" src={Oshi} alt="Testimonial 03" />
-                    <Link href="https://oshi-raghav-portfolio.netlify.app/" className=" text-center text-gray-600 transition duration-150 ease-in-out flex justify-center">Oshi Raghav</Link>
+                  <Image className="rounded-full" src={Oshi} alt="Testimonial 03" />
+                    <Link href="https://oshi-raghav-portfolio.netlify.app/" className=" text-center text-gray-600 transition duration-150 ease-in-out">Oshi Raghav</Link>
                   </li>
                   <li className="mb-1">
-                  <Image className="rounded-full grayscale hover:grayscale-0" src={Jhankar} alt="Testimonial 03" />
-                    <Link href="https://www.linkedin.com/in/jhankarsethi/" className=" text-center text-gray-600 transition duration-150 ease-in-out flex justify-center">Jhankar Sethi</Link>
+                  <Image className="rounded-full" src={Jhankar} alt="Testimonial 03" />
+                    <Link href="https://www.linkedin.com/in/jhankarsethi/" className=" text-center text-gray-600 transition duration-150 ease-in-out">Jhankar Sethi</Link>
                   </li>
                   <li className="mb-1">
-                  <Image className="rounded-full grayscale hover:grayscale-0" src={Shikha} alt="Testimonial 03" />
-                    <Link href="https://www.linkedin.com/in/shikhadiwakar" className=" text-center text-gray-600 transition duration-150 ease-in-out flex justify-center">Shikha Diwakar</Link>
+                  <Image className="rounded-full" src={Shikha} alt="Testimonial 03" />
+                    <Link href="https://www.linkedin.com/in/shikhadiwakar" className=" text-center text-gray-600 transition duration-150 ease-in-out">Shikha Diwakar</Link>
                   </li>
                 </ul>
               </div>

@@ -33,7 +33,7 @@ export default function Footer() {
 
               {/* 2nd block */}
               <div className="text-sm">
-                <h6 className="text-gray-500 text-xl mb-1 text-center mt-10 lg:mt-0">Meet The Team</h6>
+                <h6 className="text-gray-500 text-xl mb-1 text-center mt">Meet The Team</h6>
                 <ul className='grid grid-cols-2 lg:grid-cols-6 mt-10 gap-4'>
                   <li className="mb-1">
                   <Image className="rounded-full grayscale hover:grayscale-0" src={Harsh} alt="Testimonial 03"  />
