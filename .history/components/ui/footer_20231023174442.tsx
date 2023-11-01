@@ -37,7 +37,7 @@ export default function Footer() {
                 <ul className='grid grid-cols-2 lg:grid-cols-6 mt-10 gap-4'>
                   <li className="mb-1">
                   <Image className="rounded-full grayscale hover:grayscale-0" src={Harsh} alt="Testimonial 03"  />
-                    <Link href="https://www.linkedin.com/in/harshvasisht/" className="text-gray-600 transition duration-150 ease-in-out flex justify-center ">Harsh Vashisht</Link>
+                    <Link href="http://www.harsh.ai.in" className="text-gray-600 transition duration-150 ease-in-out flex justify-center ">Harsh Vashisht</Link>
                   </li>
                   <li className="mb-1">
                   <Image className="rounded-full grayscale hover:grayscale-0" src={Ujwal} alt="Testimonial 03"  />

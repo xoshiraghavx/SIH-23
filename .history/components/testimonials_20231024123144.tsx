@@ -31,8 +31,7 @@ export default function Testimonials() {
               </div>
               <blockquote className="text-lg text-white grow">— LAWS will harness the extensive knowledge repositories of both the High Court and the Supreme Court to ensure real-time updates and stay current with legal developments.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Abhishek Pandey </cite>
-                {/* <a className="text-[#ff7c3f] transition duration-150 ease-in-out" href="#0">- UX Board</a> */}
+                <cite className="text-gray-200 not-italic">Anastasia Dan </cite><a className="text-[#ff7c3f] transition duration-150 ease-in-out" href="#0">- UX Board</a>
               </div>
             </div>
 
