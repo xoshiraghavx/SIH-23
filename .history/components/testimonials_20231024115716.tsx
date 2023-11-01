@@ -31,8 +31,7 @@ export default function Testimonials() {
               </div>
               <blockquote className="text-lg text-white grow">— LAWS will harness the extensive knowledge repositories of both the High Court and the Supreme Court to ensure real-time updates and stay current with legal developments.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Abhishek Pandey </cite>
-                {/* <a className="text-[#ff7c3f] transition duration-150 ease-in-out" href="#0">- UX Board</a> */}
+                <cite className="text-gray-200 not-italic">Anastasia Dan </cite><a className="text-[#ff7c3f] transition duration-150 ease-in-out" href="#0">- UX Board</a>
               </div>
             </div>
 
@@ -48,7 +47,7 @@ export default function Testimonials() {
               </div>
               <blockquote className="text-lg text-white grow">— LAWS envisions harnessing the potential of local courts in small communities, addressing the gaps in case documentation and streamlining crucial processes that remain unautomated.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Sushma Singh </cite><a className="text-[#ff7c3f] transition duration-150 ease-in-out" href="#0">- Supreme Court</a>
+                <cite className="text-gray-200 not-italic">Sushma Singh </cite><a className="text-[#ff7c3f] transition duration-150 ease-in-out" href="#0">- Supreme Court advocate</a>
               </div>
             </div>
 
@@ -64,7 +63,7 @@ export default function Testimonials() {
               </div>
               <blockquote className="text-lg text-white grow">— It is a groundbreaking innovation for clients navigating court paperwork hurdles. Now, they can effortlessly access documents online, revolutionizing the legal experience for all involved.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Vivek Rai </cite><a className="text-[#ff7c3f] transition duration-150 ease-in-out" href="#0">- High court</a>
+                <cite className="text-gray-200 not-italic">Vivek Dan </cite><a className="text-[#ff7c3f] transition duration-150 ease-in-out" href="#0">- High court advocate</a>
               </div>
             </div>
 
